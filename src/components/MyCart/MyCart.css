@@ -1,0 +1,18 @@
+.total-price{
+    color:gray;
+    font-size: 30px;
+    position: fixed;
+    right: 15px;
+    bottom: 125px;
+}
+
+.complete-order{
+    background-color: green;
+}
+
+.empty-cart{
+    height: 100px;
+    width: 100px; 
+    position: absolute;
+    left: 920px;
+}
